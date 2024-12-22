@@ -102,7 +102,7 @@
 
 														<ul class=" nav navbar-nav">
 															  <li class="has-child">
-																    <a href="javascript:;">Home</a>
+																    <a href="javascript:">Home</a>
 																    <ul class="sub-menu">
 																		 <li>
 																			   <a href="index.php">Home
@@ -118,33 +118,33 @@
 																    <a href="about-us.php">About</a>
 															  </li>
 															  <li class="has-child">
-																    <a href="javascript:;">Cars</a>
+																    <a href="javascript:">Cars</a>
 																    <ul class="sub-menu">
 																		 <li>
-																			   <a href="cars.php">Cars</a>
+																			   <a href="cars_pages/cars.php">Cars</a>
 																		 </li>
 																		 <li>
-																			   <a href="cars-grid-1.php">Cars
+																			   <a href="cars_pages/cars-grid-1.php">Cars
 																					Grid
 																					1</a>
 																		 </li>
 																		 <li>
-																			   <a href="cars-grid-2.php">Cars
+																			   <a href="cars_pages/cars-grid-2.php">Cars
 																					Grid
 																					2</a>
 																		 </li>
 																		 <li>
-																			   <a href="cars-grid-3.php">Cars
+																			   <a href="cars_pages/cars-grid-3.php">Cars
 																					Grid
 																					3</a>
 																		 </li>
 																		 <li>
-																			   <a href="cars-grid-4.php">Cars
+																			   <a href="cars_pages/cars-grid-4.php">Cars
 																					Grid
 																					4</a>
 																		 </li>
 																		 <li>
-																			   <a href="cars-detail.php">Cars
+																			   <a href="cars_pages/cars-detail.php">Cars
 																					Detail</a>
 																		 </li>
 																    </ul>
@@ -153,7 +153,7 @@
 																    <a href="service.php">Services</a>
 															  </li>
 															  <li class="has-child">
-																    <a href="javascript:;">Pages</a>
+																    <a href="javascript:">Pages</a>
 																    <ul class="sub-menu">
 																		 <li>
 																			   <a href="dealer-list.php">Dealers</a>
@@ -184,21 +184,21 @@
 																    </ul>
 															  </li>
 															  <li class="has-child">
-																    <a href="javascript:;">Blog</a>
+																    <a href="javascript:">Blog</a>
 																    <ul class="sub-menu">
 																		 <li>
-																			   <a href="blog.php">Blog</a>
+																			   <a href="blog_pages/blog.php">Blog</a>
 																		 </li>
 																		 <li>
-																			   <a href="blog-grid.php">Blog
+																			   <a href="blog_pages/blog-grid.php">Blog
 																					Grid</a>
 																		 </li>
 																		 <li>
-																			   <a href="blog-list.php">Blog
+																			   <a href="blog_pages/blog-list.php">Blog
 																					List</a>
 																		 </li>
 																		 <li>
-																			   <a href="blog-detail.php">Blog
+																			   <a href="blog_pages/blog-detail.php">Blog
 																					Detail</a>
 																		 </li>
 																    </ul>
@@ -527,7 +527,7 @@
 												   <img src="images/vehicle/pic13.jpg"
 													   alt="Image">
 												   <div class="twm-media-link">
-														<a href="cars-detail.php"
+														<a href="cars_pages/cars-detail.php"
 														   class="twm-media-link-content">SUV</a>
 												   </div>
 											 </div>
@@ -541,7 +541,7 @@
 												   <img src="images/vehicle/pic8.jpg"
 													   alt="Image">
 												   <div class="twm-media-link">
-														<a href="cars-detail.php"
+														<a href="cars_pages/cars-detail.php"
 														   class="twm-media-link-content">Sedan</a>
 												   </div>
 											 </div>
@@ -555,7 +555,7 @@
 												   <img src="images/vehicle/pic14.jpg"
 													   alt="Image">
 												   <div class="twm-media-link">
-														<a href="cars-detail.php"
+														<a href="cars_pages/cars-detail.php"
 														   class="twm-media-link-content">Harley
 															  Davidson</a>
 												   </div>
@@ -570,7 +570,7 @@
 												   <img src="images/vehicle/pic6.jpg"
 													   alt="Image">
 												   <div class="twm-media-link">
-														<a href="cars-detail.php"
+														<a href="cars_pages/cars-detail.php"
 														   class="twm-media-link-content">Hatchback</a>
 												   </div>
 											 </div>
@@ -584,7 +584,7 @@
 												   <img src="images/vehicle/pic3.jpg"
 													   alt="Image">
 												   <div class="twm-media-link">
-														<a href="cars-detail.php"
+														<a href="cars_pages/cars-detail.php"
 														   class="twm-media-link-content">Coupe</a>
 												   </div>
 											 </div>
@@ -598,7 +598,7 @@
 												   <img src="images/vehicle/pic5.jpg"
 													   alt="Image">
 												   <div class="twm-media-link">
-														<a href="cars-detail.php"
+														<a href="cars_pages/cars-detail.php"
 														   class="twm-media-link-content">Hybrid</a>
 												   </div>
 											 </div>
@@ -856,39 +856,39 @@
 															  Type</h3>
 														<ul class="gris-2-column">
 															  <li>
-																    <a href="cars-detail.php">SUVs</a>
+																    <a href="cars_pages/cars-detail.php">SUVs</a>
 															  </li>
 															  <li>
-																    <a href="cars-detail.php">Sport
+																    <a href="cars_pages/cars-detail.php">Sport
 																		 Coupe</a>
 															  </li>
 															  <li>
-																    <a href="cars-detail.php">Convertible</a>
+																    <a href="cars_pages/cars-detail.php">Convertible</a>
 															  </li>
 															  <li>
-																    <a href="cars-detail.php">Wagon</a>
+																    <a href="cars_pages/cars-detail.php">Wagon</a>
 															  </li>
 															  <li>
-																    <a href="cars-detail.php">Sedan</a>
+																    <a href="cars_pages/cars-detail.php">Sedan</a>
 															  </li>
 															  <li>
-																    <a href="cars-detail.php">Yamaha
+																    <a href="cars_pages/cars-detail.php">Yamaha
 																		 R15</a>
 															  </li>
 															  <li>
-																    <a href="cars-detail.php">BMW
+																    <a href="cars_pages/cars-detail.php">BMW
 																		 S
 																		 1000
 																		 RR</a>
 															  </li>
 															  <li>
-																    <a href="cars-detail.php">Kawasaki</a>
+																    <a href="cars_pages/cars-detail.php">Kawasaki</a>
 															  </li>
 															  <li>
-																    <a href="cars-detail.php">Hayabusa</a>
+																    <a href="cars_pages/cars-detail.php">Hayabusa</a>
 															  </li>
 															  <li>
-																    <a href="cars-detail.php">Harley
+																    <a href="cars_pages/cars-detail.php">Harley
 																		 Davidson</a>
 															  </li>
 														</ul>
