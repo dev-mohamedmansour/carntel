@@ -12,8 +12,8 @@
 	  <meta name="description" content="">
 	  
 	  <!-- FAVICONS ICON -->
-	  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-	  <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+	  <link rel="icon" href="../images/favicon.ico" type="image/x-icon">
+	  <link rel="shortcut icon" type="image/x-icon" href="../images/favicon.png">
 	  
 	  <!-- PAGE TITLE HERE -->
 	  <title>Carntel Template | Car Detail</title>
@@ -21,17 +21,17 @@
 	  <!-- MOBILE SPECIFIC -->
 	  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	  
-	  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"><!-- BOOTSTRAP STYLE SHEET -->
-	  <link rel="stylesheet" type="text/css" href="css/animate.min.css"><!-- WOW ANIMATION STYLE SHEET -->
-	  <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"><!-- FONTAWESOME STYLE SHEET -->
-	  <link rel="stylesheet" type="text/css" href="css/lc_lightbox.css"><!-- LC LIGHT BOX POPUP -->
-	  <link rel="stylesheet" type="text/css" href="css/feather.css"><!-- FEATHER ICON SHEET -->
-	  <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css"><!-- OWL CAROUSEL STYLE SHEET -->
-	  <link rel="stylesheet" type="text/css" href="css/magnific-popup.min.css"><!-- MAGNIFIC POPUP STYLE SHEET -->
-	  <link rel="stylesheet" type="text/css" href="css/swiper-bundle.min.css"><!-- SWIPER Slider -->
-	  <link rel="stylesheet" type="text/css" href="css/bootstrap-datetimepicker.min.css"><!-- DATETIMEPICKER STYLE SHEET -->
-	  <link rel="stylesheet" type="text/css" href="css/style.css"><!-- MAIN STYLE SHEET -->
-	  <link rel="stylesheet" type="text/css" href="css/jquery.mCustomScrollbar.min.css"><!-- CUSTOM SCROLLBAR -->
+	  <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css"><!-- BOOTSTRAP STYLE SHEET -->
+	  <link rel="stylesheet" type="text/css" href="../css/animate.min.css"><!-- WOW ANIMATION STYLE SHEET -->
+	  <link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css"><!-- FONTAWESOME STYLE SHEET -->
+	  <link rel="stylesheet" type="text/css" href="../css/lc_lightbox.css"><!-- LC LIGHT BOX POPUP -->
+	  <link rel="stylesheet" type="text/css" href="../css/feather.css"><!-- FEATHER ICON SHEET -->
+	  <link rel="stylesheet" type="text/css" href="../css/owl.carousel.min.css"><!-- OWL CAROUSEL STYLE SHEET -->
+	  <link rel="stylesheet" type="text/css" href="../css/magnific-popup.min.css"><!-- MAGNIFIC POPUP STYLE SHEET -->
+	  <link rel="stylesheet" type="text/css" href="../css/swiper-bundle.min.css"><!-- SWIPER Slider -->
+	  <link rel="stylesheet" type="text/css" href="../css/bootstrap-datetimepicker.min.css"><!-- DATETIMEPICKER STYLE SHEET -->
+	  <link rel="stylesheet" type="text/css" href="../css/style.css"><!-- MAIN STYLE SHEET -->
+	  <link rel="stylesheet" type="text/css" href="../css/jquery.mCustomScrollbar.min.css"><!-- CUSTOM SCROLLBAR -->
 
 </head>
 
@@ -41,7 +41,7 @@
 <div class="loading-area">
 	  <div class="loading-box"></div>
 	  <div class="loading-pic">
-			 <img class="loader-gif" src="images/loader-car.gif" alt="loader Image">
+			 <img class="loader-gif" src="../images/loader-car.gif" alt="loader Image">
 	  </div>
 </div>
 <!-- LOADING AREA  END ====== -->
@@ -55,8 +55,8 @@
 					<div class="header-middle main-bar">
 						  <div class="logo-header">
 								 <div class="logo-header-inner logo-header-one">
-										<a href="index.php">
-											  <img src="images/logo-dark.png" alt="Logo">
+										<a href="../index.php">
+											  <img src="../images/logo-dark.png" alt="Logo">
 										</a>
 								 </div>
 						  </div>
@@ -82,11 +82,11 @@
 																  <ul class=" nav navbar-nav">
 																		 <li class="has-child"><a href="javascript:;">Home</a>
 																				<ul class="sub-menu">
-																					  <li><a href="index.php">Home 1</a></li>
-																					  <li><a href="index-2.php">Home 2</a></li>
+																					  <li><a href="../index.php">Home 1</a></li>
+																					  <li><a href="../index-2.php">Home 2</a></li>
 																				</ul>
 																		 </li>
-																		 <li><a href="about-us.php">About</a></li>
+																		 <li><a href="../about-us.php">About</a></li>
 																		 <li class="has-child">
 																				<a href="javascript:;">Cars</a>
 																				<ul class="sub-menu">
@@ -98,30 +98,30 @@
 																					  <li><a href="cars-detail.php">Cars Detail</a></li>
 																				</ul>
 																		 </li>
-																		 <li><a href="service.php">Services</a></li>
+																		 <li><a href="../service.php">Services</a></li>
 																		 <li class="has-child">
 																				<a href="javascript:;">Pages</a>
 																				<ul class="sub-menu">
-																					  <li><a href="dealer-list.php">Dealers</a></li>
-																					  <li><a href="error-404.php">Error 404 </a></li>
-																					  <li><a href="faq.php">Faq</a></li>
-																					  <li><a href="gallery.php">Gallery</a></li>
-																					  <li><a href="plans.php">Plans</a></li>
-																					  <li><a href="team.php">Team</a></li>
-																					  <li><a href="team-detail.php">Team Detail</a></li>
-																					  <li><a href="testimonial.php">Testimonials</a></li>
+																					  <li><a href="../dealer-list.php">Dealers</a></li>
+																					  <li><a href="../error-404.php">Error 404 </a></li>
+																					  <li><a href="../faq.php">Faq</a></li>
+																					  <li><a href="../gallery.php">Gallery</a></li>
+																					  <li><a href="../plans.php">Plans</a></li>
+																					  <li><a href="../team.php">Team</a></li>
+																					  <li><a href="../team-detail.php">Team Detail</a></li>
+																					  <li><a href="../testimonial.php">Testimonials</a></li>
 																				</ul>
 																		 </li>
 																		 <li class="has-child">
 																				<a href="javascript:;">Blog</a>
 																				<ul class="sub-menu">
-																					  <li><a href="blog.php">Blog</a></li>
-																					  <li><a href="blog-grid.php">Blog Grid</a></li>
-																					  <li><a href="blog-list.php">Blog List</a></li>
-																					  <li><a href="blog-detail.php">Blog Detail</a></li>
+																					  <li><a href="../blog_pages/blog.php">Blog</a></li>
+																					  <li><a href="../blog_pages/blog-grid.php">Blog Grid</a></li>
+																					  <li><a href="../blog_pages/blog-list.php">Blog List</a></li>
+																					  <li><a href="../blog_pages/blog-detail.php">Blog Detail</a></li>
 																				</ul>
 																		 </li>
-																		 <li><a href="contact-us.php">Contact</a></li>
+																		 <li><a href="../contact-us.php">Contact</a></li>
 																  </ul>
 															
 															</div>
@@ -170,35 +170,35 @@
 						  <div class="swiper-wrapper">
 								 
 								 <!-- 1 large Pic -->
-								 <div class="swiper-slide" style="background-image: url(images/car-detail/slider/thumb/pic1.jpg);">
+								 <div class="swiper-slide" style="background-image: url(../images/car-detail/slider/thumb/pic1.jpg);">
 										<div class="title">Bmw X6 m</div>
 								 </div>
 								 <!-- 2 large Pic -->
-								 <div class="swiper-slide" style="background-image: url(images/car-detail/slider/thumb/pic2.jpg);">
+								 <div class="swiper-slide" style="background-image: url(../images/car-detail/slider/thumb/pic2.jpg);">
 										<div class="title">Bright Light</div>
 								 </div>
 								 <!-- 3 large Pic -->
-								 <div class="swiper-slide" style="background-image: url(images/car-detail/slider/thumb/pic3.jpg);">
+								 <div class="swiper-slide" style="background-image: url(../images/car-detail/slider/thumb/pic3.jpg);">
 										<div class="title">Front View</div>
 								 </div>
 								 <!-- 4 large Pic -->
-								 <div class="swiper-slide" style="background-image: url(images/car-detail/slider/thumb/pic4.jpg);">
+								 <div class="swiper-slide" style="background-image: url(../images/car-detail/slider/thumb/pic4.jpg);">
 										<div class="title">Back View</div>
 								 </div>
 								 <!-- 5 large Pic -->
-								 <div class="swiper-slide" style="background-image: url(images/car-detail/slider/thumb/pic1.jpg);">
+								 <div class="swiper-slide" style="background-image: url(../images/car-detail/slider/thumb/pic1.jpg);">
 										<div class="title">Bmw X6 m</div>
 								 </div>
 								 <!-- 6 large Pic -->
-								 <div class="swiper-slide" style="background-image: url(images/car-detail/slider/thumb/pic2.jpg);">
+								 <div class="swiper-slide" style="background-image: url(../images/car-detail/slider/thumb/pic2.jpg);">
 										<div class="title">Bright Light</div>
 								 </div>
 								 <!-- 7 large Pic -->
-								 <div class="swiper-slide" style="background-image: url(images/car-detail/slider/thumb/pic3.jpg);">
+								 <div class="swiper-slide" style="background-image: url(../images/car-detail/slider/thumb/pic3.jpg);">
 										<div class="title">Front View</div>
 								 </div>
 								 <!-- 8 large Pic -->
-								 <div class="swiper-slide" style="background-image: url(images/car-detail/slider/thumb/pic4.jpg);">
+								 <div class="swiper-slide" style="background-image: url(../images/car-detail/slider/thumb/pic4.jpg);">
 										<div class="title">Back View</div>
 								 </div>
 						  
@@ -213,49 +213,49 @@
 								 <!-- 1 Thumb Pic -->
 								 <div class="swiper-slide">
 										<div class="car-d-thumb">
-											  <img src="images/car-detail/slider/thumb/pic1.jpg" alt="#">
+											  <img src="../images/car-detail/slider/thumb/pic1.jpg" alt="#">
 										</div>
 								 </div>
 								 <!-- 2 Thumb Pic -->
 								 <div class="swiper-slide">
 										<div class="car-d-thumb">
-											  <img src="images/car-detail/slider/thumb/pic2.jpg" alt="#">
+											  <img src="../images/car-detail/slider/thumb/pic2.jpg" alt="#">
 										</div>
 								 </div>
 								 <!-- 3 Thumb Pic -->
 								 <div class="swiper-slide">
 										<div class="car-d-thumb">
-											  <img src="images/car-detail/slider/thumb/pic3.jpg" alt="#">
+											  <img src="../images/car-detail/slider/thumb/pic3.jpg" alt="#">
 										</div>
 								 </div>
 								 <!-- 4 Thumb Pic -->
 								 <div class="swiper-slide">
 										<div class="car-d-thumb">
-											  <img src="images/car-detail/slider/thumb/pic4.jpg" alt="#">
+											  <img src="../images/car-detail/slider/thumb/pic4.jpg" alt="#">
 										</div>
 								 </div>
 								 <!-- 5 Thumb Pic -->
 								 <div class="swiper-slide">
 										<div class="car-d-thumb">
-											  <img src="images/car-detail/slider/thumb/pic1.jpg" alt="#">
+											  <img src="../images/car-detail/slider/thumb/pic1.jpg" alt="#">
 										</div>
 								 </div>
 								 <!-- 6 Thumb Pic -->
 								 <div class="swiper-slide">
 										<div class="car-d-thumb">
-											  <img src="images/car-detail/slider/thumb/pic2.jpg" alt="#">
+											  <img src="../images/car-detail/slider/thumb/pic2.jpg" alt="#">
 										</div>
 								 </div>
 								 <!-- 7 Thumb Pic -->
 								 <div class="swiper-slide">
 										<div class="car-d-thumb">
-											  <img src="images/car-detail/slider/thumb/pic3.jpg" alt="#">
+											  <img src="../images/car-detail/slider/thumb/pic3.jpg" alt="#">
 										</div>
 								 </div>
 								 <!-- 8 Thumb Pic -->
 								 <div class="swiper-slide">
 										<div class="car-d-thumb">
-											  <img src="images/car-detail/slider/thumb/pic4.jpg" alt="#">
+											  <img src="../images/car-detail/slider/thumb/pic4.jpg" alt="#">
 										</div>
 								 </div>
 						  
@@ -446,7 +446,7 @@
 													 </div>
 													 
 													 <div class="wt-post-video-media">
-															<div class="vid-media"><img src="images/video-pic.jpg" alt=""></div>
+															<div class="vid-media"><img src="../images/video-pic.jpg" alt=""></div>
 															
 															<div class="twm-vid-btn-wrap">
 																  <a href="https://www.youtube.com/watch?v=fZ5ErXJz3YY" class="mfp-video twm-vid-btn btn-animation">
@@ -539,7 +539,7 @@
 																  <h3 class="twm-title">+71 202 102 2124</h3>
 															</div>
 															<div class="twm-need-help-icon">
-																  <img src="images/24-clock.png" alt="icon">
+																  <img src="../images/24-clock.png" alt="icon">
 															</div>
 													 </div>
 											  </div>
@@ -575,7 +575,7 @@
 										<div class="twm-vehicle-fleet-bx2 twm-custom-grid-3">
 											  <div class="twm-media">
 													 <div class="twm-media-pic">
-															<img src="images/vehicle-2/pic14.jpg" alt="image">
+															<img src="../images/vehicle-2/pic14.jpg" alt="image">
 													 </div>
 													 <div class="twm-price-section">
 															<div class="v-price">$800</div>
@@ -586,9 +586,9 @@
 											  <div class="twm-vehicle-fleet-content">
 													 <h3 class="twm-v-title"><a href="cars-detail.php">Mercedes</a></h3>
 													 <ul class="twm-vehicle-facility">
-															<li><span><img src="images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
-															<li><span><img src="images/icons/bag.png" alt="Image"></span>4 Bags</li>
-															<li><span><img src="images/icons/car.png" alt="Image"></span>4 Suv</li>
+															<li><span><img src="../images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
+															<li><span><img src="../images/icons/bag.png" alt="Image"></span>4 Bags</li>
+															<li><span><img src="../images/icons/car.png" alt="Image"></span>4 Suv</li>
 													 </ul>
 													 <ul class="twm-vehicle-fuel-type">
 															<li>Petrol</li>
@@ -604,7 +604,7 @@
 										<div class="twm-vehicle-fleet-bx2 twm-custom-grid-3">
 											  <div class="twm-media">
 													 <div class="twm-media-pic">
-															<img src="images/vehicle-2/pic11.jpg" alt="image">
+															<img src="../images/vehicle-2/pic11.jpg" alt="image">
 													 </div>
 													 <div class="twm-price-section">
 															<div class="v-price">$900</div>
@@ -615,9 +615,9 @@
 											  <div class="twm-vehicle-fleet-content">
 													 <h3 class="twm-v-title"><a href="cars-detail.php">BMW</a></h3>
 													 <ul class="twm-vehicle-facility">
-															<li><span><img src="images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
-															<li><span><img src="images/icons/bag.png" alt="Image"></span>4 Bags</li>
-															<li><span><img src="images/icons/car.png" alt="Image"></span>4 Suv</li>
+															<li><span><img src="../images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
+															<li><span><img src="../images/icons/bag.png" alt="Image"></span>4 Bags</li>
+															<li><span><img src="../images/icons/car.png" alt="Image"></span>4 Suv</li>
 													 </ul>
 													 <ul class="twm-vehicle-fuel-type">
 															<li>Petrol</li>
@@ -633,7 +633,7 @@
 										<div class="twm-vehicle-fleet-bx2 twm-custom-grid-3">
 											  <div class="twm-media">
 													 <div class="twm-media-pic">
-															<img src="images/vehicle-2/pic12.jpg" alt="image">
+															<img src="../images/vehicle-2/pic12.jpg" alt="image">
 													 </div>
 													 <div class="twm-price-section">
 															<div class="v-price">$800</div>
@@ -644,9 +644,9 @@
 											  <div class="twm-vehicle-fleet-content">
 													 <h3 class="twm-v-title"><a href="cars-detail.php">White BMW</a></h3>
 													 <ul class="twm-vehicle-facility">
-															<li><span><img src="images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
-															<li><span><img src="images/icons/bag.png" alt="Image"></span>4 Bags</li>
-															<li><span><img src="images/icons/car.png" alt="Image"></span>4 Suv</li>
+															<li><span><img src="../images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
+															<li><span><img src="../images/icons/bag.png" alt="Image"></span>4 Bags</li>
+															<li><span><img src="../images/icons/car.png" alt="Image"></span>4 Suv</li>
 													 </ul>
 													 <ul class="twm-vehicle-fuel-type">
 															<li>Petrol</li>
@@ -662,7 +662,7 @@
 										<div class="twm-vehicle-fleet-bx2 twm-custom-grid-3">
 											  <div class="twm-media">
 													 <div class="twm-media-pic">
-															<img src="images/vehicle-2/pic13.jpg" alt="image">
+															<img src="../images/vehicle-2/pic13.jpg" alt="image">
 													 </div>
 													 <div class="twm-price-section">
 															<div class="v-price">$800</div>
@@ -673,9 +673,9 @@
 											  <div class="twm-vehicle-fleet-content">
 													 <h3 class="twm-v-title"><a href="cars-detail.php">Skoda</a></h3>
 													 <ul class="twm-vehicle-facility">
-															<li><span><img src="images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
-															<li><span><img src="images/icons/bag.png" alt="Image"></span>4 Bags</li>
-															<li><span><img src="images/icons/car.png" alt="Image"></span>4 Suv</li>
+															<li><span><img src="../images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
+															<li><span><img src="../images/icons/bag.png" alt="Image"></span>4 Bags</li>
+															<li><span><img src="../images/icons/car.png" alt="Image"></span>4 Suv</li>
 													 </ul>
 													 <ul class="twm-vehicle-fuel-type">
 															<li>Petrol</li>
@@ -691,7 +691,7 @@
 										<div class="twm-vehicle-fleet-bx2 twm-custom-grid-3">
 											  <div class="twm-media">
 													 <div class="twm-media-pic">
-															<img src="images/vehicle-2/pic1.jpg" alt="image">
+															<img src="../images/vehicle-2/pic1.jpg" alt="image">
 													 </div>
 													 <div class="twm-price-section">
 															<div class="v-price">$800</div>
@@ -702,9 +702,9 @@
 											  <div class="twm-vehicle-fleet-content">
 													 <h3 class="twm-v-title"><a href="cars-detail.php">Jeep Renegade</a></h3>
 													 <ul class="twm-vehicle-facility">
-															<li><span><img src="images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
-															<li><span><img src="images/icons/bag.png" alt="Image"></span>4 Bags</li>
-															<li><span><img src="images/icons/car.png" alt="Image"></span>4 Suv</li>
+															<li><span><img src="../images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
+															<li><span><img src="../images/icons/bag.png" alt="Image"></span>4 Bags</li>
+															<li><span><img src="../images/icons/car.png" alt="Image"></span>4 Suv</li>
 													 </ul>
 													 <ul class="twm-vehicle-fuel-type">
 															<li>Petrol</li>
@@ -720,7 +720,7 @@
 										<div class="twm-vehicle-fleet-bx2 twm-custom-grid-3">
 											  <div class="twm-media">
 													 <div class="twm-media-pic">
-															<img src="images/vehicle-2/pic2.jpg" alt="image">
+															<img src="../images/vehicle-2/pic2.jpg" alt="image">
 													 </div>
 													 <div class="twm-price-section">
 															<div class="v-price">$700</div>
@@ -731,9 +731,9 @@
 											  <div class="twm-vehicle-fleet-content">
 													 <h3 class="twm-v-title"><a href="cars-detail.php">Ferarri Enzo</a></h3>
 													 <ul class="twm-vehicle-facility">
-															<li><span><img src="images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
-															<li><span><img src="images/icons/bag.png" alt="Image"></span>4 Bags</li>
-															<li><span><img src="images/icons/car.png" alt="Image"></span>4 Suv</li>
+															<li><span><img src="../images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
+															<li><span><img src="../images/icons/bag.png" alt="Image"></span>4 Bags</li>
+															<li><span><img src="../images/icons/car.png" alt="Image"></span>4 Suv</li>
 													 </ul>
 													 <ul class="twm-vehicle-fuel-type">
 															<li>Petrol</li>
@@ -749,7 +749,7 @@
 										<div class="twm-vehicle-fleet-bx2 twm-custom-grid-3">
 											  <div class="twm-media">
 													 <div class="twm-media-pic">
-															<img src="images/vehicle-2/pic3.jpg" alt="image">
+															<img src="../images/vehicle-2/pic3.jpg" alt="image">
 													 </div>
 													 <div class="twm-price-section">
 															<div class="v-price">$900</div>
@@ -760,9 +760,9 @@
 											  <div class="twm-vehicle-fleet-content">
 													 <h3 class="twm-v-title"><a href="cars-detail.php">Mini Cooper</a></h3>
 													 <ul class="twm-vehicle-facility">
-															<li><span><img src="images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
-															<li><span><img src="images/icons/bag.png" alt="Image"></span>4 Bags</li>
-															<li><span><img src="images/icons/car.png" alt="Image"></span>4 Suv</li>
+															<li><span><img src="../images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
+															<li><span><img src="../images/icons/bag.png" alt="Image"></span>4 Bags</li>
+															<li><span><img src="../images/icons/car.png" alt="Image"></span>4 Suv</li>
 													 </ul>
 													 <ul class="twm-vehicle-fuel-type">
 															<li>Petrol</li>
@@ -778,7 +778,7 @@
 										<div class="twm-vehicle-fleet-bx2 twm-custom-grid-3">
 											  <div class="twm-media">
 													 <div class="twm-media-pic">
-															<img src="images/vehicle-2/pic4.jpg" alt="image">
+															<img src="../images/vehicle-2/pic4.jpg" alt="image">
 													 </div>
 													 <div class="twm-price-section">
 															<div class="v-price">$500</div>
@@ -789,9 +789,9 @@
 											  <div class="twm-vehicle-fleet-content">
 													 <h3 class="twm-v-title"><a href="cars-detail.php">Rolls Royce Cullinan</a></h3>
 													 <ul class="twm-vehicle-facility">
-															<li><span><img src="images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
-															<li><span><img src="images/icons/bag.png" alt="Image"></span>4 Bags</li>
-															<li><span><img src="images/icons/car.png" alt="Image"></span>4 Suv</li>
+															<li><span><img src="../images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
+															<li><span><img src="../images/icons/bag.png" alt="Image"></span>4 Bags</li>
+															<li><span><img src="../images/icons/car.png" alt="Image"></span>4 Suv</li>
 													 </ul>
 													 <ul class="twm-vehicle-fuel-type">
 															<li>Petrol</li>
@@ -807,7 +807,7 @@
 										<div class="twm-vehicle-fleet-bx2 twm-custom-grid-3">
 											  <div class="twm-media">
 													 <div class="twm-media-pic">
-															<img src="images/vehicle-2/pic5.jpg" alt="image">
+															<img src="../images/vehicle-2/pic5.jpg" alt="image">
 													 </div>
 													 <div class="twm-price-section">
 															<div class="v-price">$800</div>
@@ -818,9 +818,9 @@
 											  <div class="twm-vehicle-fleet-content">
 													 <h3 class="twm-v-title"><a href="cars-detail.php">Porsche 911</a></h3>
 													 <ul class="twm-vehicle-facility">
-															<li><span><img src="images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
-															<li><span><img src="images/icons/bag.png" alt="Image"></span>4 Bags</li>
-															<li><span><img src="images/icons/car.png" alt="Image"></span>4 Suv</li>
+															<li><span><img src="../images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
+															<li><span><img src="../images/icons/bag.png" alt="Image"></span>4 Bags</li>
+															<li><span><img src="../images/icons/car.png" alt="Image"></span>4 Suv</li>
 													 </ul>
 													 <ul class="twm-vehicle-fuel-type">
 															<li>Petrol</li>
@@ -836,7 +836,7 @@
 										<div class="twm-vehicle-fleet-bx2 twm-custom-grid-3">
 											  <div class="twm-media">
 													 <div class="twm-media-pic">
-															<img src="images/vehicle-2/pic6.jpg" alt="image">
+															<img src="../images/vehicle-2/pic6.jpg" alt="image">
 													 </div>
 													 <div class="twm-price-section">
 															<div class="v-price">$800</div>
@@ -847,9 +847,9 @@
 											  <div class="twm-vehicle-fleet-content">
 													 <h3 class="twm-v-title"><a href="cars-detail.php">Chevrolet Coupe</a></h3>
 													 <ul class="twm-vehicle-facility">
-															<li><span><img src="images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
-															<li><span><img src="images/icons/bag.png" alt="Image"></span>4 Bags</li>
-															<li><span><img src="images/icons/car.png" alt="Image"></span>4 Suv</li>
+															<li><span><img src="../images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
+															<li><span><img src="../images/icons/bag.png" alt="Image"></span>4 Bags</li>
+															<li><span><img src="../images/icons/car.png" alt="Image"></span>4 Suv</li>
 													 </ul>
 													 <ul class="twm-vehicle-fuel-type">
 															<li>Petrol</li>
@@ -865,7 +865,7 @@
 										<div class="twm-vehicle-fleet-bx2 twm-custom-grid-3">
 											  <div class="twm-media">
 													 <div class="twm-media-pic">
-															<img src="images/vehicle-2/pic8.jpg" alt="image">
+															<img src="../images/vehicle-2/pic8.jpg" alt="image">
 													 </div>
 													 <div class="twm-price-section">
 															<div class="v-price">$800</div>
@@ -876,9 +876,9 @@
 											  <div class="twm-vehicle-fleet-content">
 													 <h3 class="twm-v-title"><a href="cars-detail.php">Toyota Crew Cab</a></h3>
 													 <ul class="twm-vehicle-facility">
-															<li><span><img src="images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
-															<li><span><img src="images/icons/bag.png" alt="Image"></span>4 Bags</li>
-															<li><span><img src="images/icons/car.png" alt="Image"></span>4 Suv</li>
+															<li><span><img src="../images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
+															<li><span><img src="../images/icons/bag.png" alt="Image"></span>4 Bags</li>
+															<li><span><img src="../images/icons/car.png" alt="Image"></span>4 Suv</li>
 													 </ul>
 													 <ul class="twm-vehicle-fuel-type">
 															<li>Petrol</li>
@@ -894,7 +894,7 @@
 										<div class="twm-vehicle-fleet-bx2 twm-custom-grid-3">
 											  <div class="twm-media">
 													 <div class="twm-media-pic">
-															<img src="images/vehicle-2/pic9.jpg" alt="image">
+															<img src="../images/vehicle-2/pic9.jpg" alt="image">
 													 </div>
 													 <div class="twm-price-section">
 															<div class="v-price">$800</div>
@@ -905,9 +905,9 @@
 											  <div class="twm-vehicle-fleet-content">
 													 <h3 class="twm-v-title"><a href="cars-detail.php">lamborghini</a></h3>
 													 <ul class="twm-vehicle-facility">
-															<li><span><img src="images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
-															<li><span><img src="images/icons/bag.png" alt="Image"></span>4 Bags</li>
-															<li><span><img src="images/icons/car.png" alt="Image"></span>4 Suv</li>
+															<li><span><img src="../images/icons/car-seat.png" alt="Image"></span>4 Seat</li>
+															<li><span><img src="../images/icons/bag.png" alt="Image"></span>4 Bags</li>
+															<li><span><img src="../images/icons/car.png" alt="Image"></span>4 Suv</li>
 													 </ul>
 													 <ul class="twm-vehicle-fuel-type">
 															<li>Petrol</li>
@@ -939,7 +939,7 @@
 										
 										<div class="widget widget_about">
 											  <div class="logo-footer clearfix">
-													 <a href="index.php"><img src="images/logo-f.png" alt="Image"></a>
+													 <a href="../index.php"><img src="../images/logo-f.png" alt="Image"></a>
 											  </div>
 											  <div class="f-about-info">
 													 We offer a range of the finest and most premium cars and bikes on rent.
@@ -983,11 +983,11 @@
 															<div class="widget widget_services">
 																  <h3 class="widget-title">Quick Links</h3>
 																  <ul>
-																		 <li><a href="about-us.php">About us</a></li>
-																		 <li><a href="faq.php">FAQ’s</a></li>
-																		 <li><a href="service.php">Services</a></li>
-																		 <li><a href="team.php">Team</a></li>
-																		 <li><a href="contact-us.php">Contact</a></li>
+																		 <li><a href="../about-us.php">About us</a></li>
+																		 <li><a href="../faq.php">FAQ’s</a></li>
+																		 <li><a href="../service.php">Services</a></li>
+																		 <li><a href="../team.php">Team</a></li>
+																		 <li><a href="../contact-us.php">Contact</a></li>
 																  </ul>
 															</div>
 													 
@@ -1056,25 +1056,25 @@
 
 
 <!-- JAVASCRIPT  FILES ========================================= -->
-<script src="js/jquery-3.7.1.min.js"></script><!-- JQUERY.MIN JS -->
-<script src="js/popper.min.js"></script><!-- POPPER.MIN JS -->
-<script src="js/bootstrap.min.js"></script><!-- BOOTSTRAP.MIN JS -->
-<script src="js/magnific-popup.min.js"></script><!-- MAGNIFIC-POPUP JS -->
-<script src="js/waypoints.min.js"></script><!-- WAYPOINTS JS -->
-<script src="js/waypoints-sticky.min.js"></script><!-- STICKY HEADER -->
-<script src="js/counterup.min.js"></script><!-- COUNTERUP JS -->
-<script src="js/isotope.pkgd.min.js"></script><!-- MASONRY -->
-<script src="js/imagesloaded.pkgd.min.js"></script><!-- MASONRY -->
-<script src="js/owl.carousel.min.js"></script><!-- OWL SLIDER -->
-<script src="js/theia-sticky-sidebar.js"></script><!-- STICKY SIDEBAR  -->
-<script src="js/lc_lightbox.lite.js" ></script><!-- IMAGE POPUP -->
-<script src="js/swiper-bundle.min.js"></script><!-- SWIPER JS -->
-<script src="js/wow.min.js"></script><!-- WOW ANIMATION JS -->
-<script src="js/custom.js"></script><!-- CUSTOM FUCTIONS -->
-<script src="js/tickerNews.min.js"></script><!-- TICKERNEWS-->
-<script src="js/moment.min.js"></script><!-- REQUIRE FOR BOOTSTRAP DATETIMEPICKER -->
-<script src="js/bootstrap-datetimepicker.min.js"></script><!-- BOOTSTRAP DATETIMEPICKER -->
-<script src="js/jquery.mCustomScrollbar.concat.min.js"></script><!-- CUSTOM SCROLLBAR JS -->
+<script src="../js/jquery-3.7.1.min.js"></script><!-- JQUERY.MIN JS -->
+<script src="../js/popper.min.js"></script><!-- POPPER.MIN JS -->
+<script src="../js/bootstrap.min.js"></script><!-- BOOTSTRAP.MIN JS -->
+<script src="../js/magnific-popup.min.js"></script><!-- MAGNIFIC-POPUP JS -->
+<script src="../js/waypoints.min.js"></script><!-- WAYPOINTS JS -->
+<script src="../js/waypoints-sticky.min.js"></script><!-- STICKY HEADER -->
+<script src="../js/counterup.min.js"></script><!-- COUNTERUP JS -->
+<script src="../js/isotope.pkgd.min.js"></script><!-- MASONRY -->
+<script src="../js/imagesloaded.pkgd.min.js"></script><!-- MASONRY -->
+<script src="../js/owl.carousel.min.js"></script><!-- OWL SLIDER -->
+<script src="../js/theia-sticky-sidebar.js"></script><!-- STICKY SIDEBAR  -->
+<script src="../js/lc_lightbox.lite.js" ></script><!-- IMAGE POPUP -->
+<script src="../js/swiper-bundle.min.js"></script><!-- SWIPER JS -->
+<script src="../js/wow.min.js"></script><!-- WOW ANIMATION JS -->
+<script src="../js/custom.js"></script><!-- CUSTOM FUCTIONS -->
+<script src="../js/tickerNews.min.js"></script><!-- TICKERNEWS-->
+<script src="../js/moment.min.js"></script><!-- REQUIRE FOR BOOTSTRAP DATETIMEPICKER -->
+<script src="../js/bootstrap-datetimepicker.min.js"></script><!-- BOOTSTRAP DATETIMEPICKER -->
+<script src="../js/jquery.mCustomScrollbar.concat.min.js"></script><!-- CUSTOM SCROLLBAR JS -->
 
 
 
