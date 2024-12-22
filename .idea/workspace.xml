@@ -23,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -73,7 +74,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.codegpt.services",
+    "settings.editor.selected.configurable": "diff.base",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -113,7 +114,7 @@
       <workItem from="1734835679867" duration="1486000" />
       <workItem from="1734837215248" duration="198000" />
       <workItem from="1734837447018" duration="281000" />
-      <workItem from="1734837854128" duration="321000" />
+      <workItem from="1734837854128" duration="765000" />
     </task>
     <task id="LOCAL-00001" summary="create a files.">
       <option name="closed" value="true" />
@@ -173,6 +174,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="create a files." />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
