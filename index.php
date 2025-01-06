@@ -24,7 +24,7 @@
 	  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	  <!-- BOOTSTRAP STYLE SHEET -->
 	  <link rel="stylesheet" type="text/css" href="css/animate.min.css">
-	  <!-- WOW ANIMATION STYLE SHEET -->
+	  <!-- WOW! ANIMATION STYLE SHEET -->
 	  <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
 	  <!-- FONTAWESOME STYLE SHEET -->
 	  <link rel="stylesheet" type="text/css" href="css/lc_lightbox.css">
@@ -108,10 +108,10 @@
 																			   <a href="index.php">Home
 																					1</a>
 																		 </li>
-																		 <li>
-																			   <a href="index-2.php">Home
-																					2</a>
-																		 </li>
+<!--																		 <li>-->
+<!--																			   <a href="index-2.php">Home-->
+<!--																					2</a>-->
+<!--																		 </li>-->
 																    </ul>
 															  </li>
 															  <li>
@@ -210,26 +210,23 @@
 
 												   </div>
 											 </div>
-
 									    </div>
 								  </div>
-
 							</div>
-
 					   </div>
 					   <!-- Header Right Section-->
 					   <div class="extra-nav header-1-nav">
 							<div class="extra-cell one">
 								  <ul class="wt-topbar-left-info">
 									    <li>
-											 <a href="tel:+712021022525">
+											 <a href="tel:+01152898744">
 												   <span><i class="feather feather-mail"></i></span>+71
-												   202 102 2525
+												   011 528 98744
 											 </a>
 									    </li>
 									    <li>
-											 <a href="mailto:someone@example.com">
-												   <span><i class="feather feather-phone-call"></i></span>carntelinfo@gmail.com
+											 <a href="mailto:mohamedmansour0037@gmail.com">
+												   <span><i class="feather feather-phone-call"></i></span>HR.CARNTEL@gmail.com
 											 </a>
 									    </li>
 								  </ul>
@@ -386,7 +383,7 @@
 																					</div>
 																					<div class="col-xxl-4 col-xl-6 col-lg-6 col-sm-4">
 																						  <div class="form-group">
-																							    <label>Pick
+																							    <label for="">Pick
 																									 up
 																									 Location</label>
 																							    <input class="form-control"
@@ -1336,7 +1333,7 @@
 		    </div>
 		    <!--ABOUS US SECTION END-->
 
-		    <!--LET'S YOUR ADVENTURE SECTION START-->
+		    <!--LETS YOUR ADVENTURE SECTION START-->
 		    <div class="section-full p-t150 p-b120 site-bg-dark twm-step-towards-section-wrap wow fadeInDown"
 			    data-wow-offset="100" data-wow-delay="0.2">
 				 <div class="twm-half-bg-pic"
@@ -1351,7 +1348,7 @@
 											 One step towards you
 									    </div>
 									    <h2 class="twm-large-title site-text-white">
-											 Let's Your Adventure
+											 Let Your Adventure
 											 Begin</h2>
 								  </div>
 								  <!-- TITLE END-->
@@ -1455,7 +1452,7 @@
 
 				 </div>
 		    </div>
-		    <!--LET'S YOUR ADVENTURE SECTION END-->
+		    <!--LETS YOUR ADVENTURE SECTION END-->
 
 		    <!--OUR VEHICLE FLEET SECTION START -->
 		    <div class="section-full p-t150 p-b120 site-bg-white twm-blog-section-wrap wow fadeInDown"
@@ -1673,9 +1670,7 @@
 											 </div>
 											 <div class="twm-vehicle-fleet-content">
 												   <h3 class="twm-v-title">
-														<a href="cars_pages/cars-detail.php">Rolls
-															  Royce
-															  Cullinan</a>
+														<a href="cars_pages/cars-detail.php">Rolls-Royce Cullinan</a>
 												   </h3>
 												   <ul class="twm-vehicle-facility">
 														<li><span><img src="images/icons/car-seat.png"

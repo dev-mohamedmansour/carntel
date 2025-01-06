@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/new_cars",
+  "description": "project about cars",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "mohamed",
+      "email": "mohamedmansour0037@gmail.com"
+    }
+  ],
+  "require": {
+    "free2one/php-accessor": "~0.5.3"
+  }
+}

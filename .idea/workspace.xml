@@ -10,8 +10,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution />
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="origin/master" />
@@ -50,7 +60,11 @@
     </option>
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php-8.4.1\php.exe" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php-8.4.1\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
@@ -63,28 +77,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/wamp64/www/projects/Project_one",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "diff.base",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/wamp64/www/projects/Project_one&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\projects\Project_one\cars_pages" />
@@ -114,7 +128,11 @@
       <workItem from="1734835679867" duration="1486000" />
       <workItem from="1734837215248" duration="198000" />
       <workItem from="1734837447018" duration="281000" />
-      <workItem from="1734837854128" duration="765000" />
+      <workItem from="1734837854128" duration="4229000" />
+      <workItem from="1734892068955" duration="307000" />
+      <workItem from="1734892408880" duration="263000" />
+      <workItem from="1734892691896" duration="747000" />
+      <workItem from="1736205729926" duration="471000" />
     </task>
     <task id="LOCAL-00001" summary="create a files.">
       <option name="closed" value="true" />
@@ -156,7 +174,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734838116832</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: update all pages&#10;&#10;Update all pages to use the new cars_pages directory.">
+      <option name="closed" value="true" />
+      <created>1734838637729</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734838637729</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Enable commit signing&#10;&#10;Enables signing commits using GPG.  Also updates the last IDE settings change.">
+      <option name="closed" value="true" />
+      <created>1734839405472</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734839405472</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +213,9 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="create a files." />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="feat: update all pages&#10;&#10;Update all pages to use the new cars_pages directory." />
+    <MESSAGE value="Enable commit signing&#10;&#10;Enables signing commits using GPG.  Also updates the last IDE settings change." />
+    <option name="LAST_COMMIT_MESSAGE" value="Enable commit signing&#10;&#10;Enables signing commits using GPG.  Also updates the last IDE settings change." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
