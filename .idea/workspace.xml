@@ -151,7 +151,7 @@
       <workItem from="1736295557736" duration="3352000" />
       <workItem from="1736618183559" duration="397000" />
       <workItem from="1736618605007" duration="1670000" />
-      <workItem from="1736771938825" duration="353000" />
+      <workItem from="1736771938825" duration="5781000" />
     </task>
     <task id="LOCAL-00001" summary="create a files.">
       <option name="closed" value="true" />
@@ -217,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736206369896</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Configure project for PHPUnit&#10;&#10;Adds PHPUnit configuration to the project, including:&#10;&#10;- Specifying a test source folder.&#10;- Adding composer as a dependency.&#10;- Configuring the PHP interpreter and include path.&#10;- Updating workspace settings for Composer and PHPUnit.&#10;- Minor updates to HTML content and styling.">
+      <option name="closed" value="true" />
+      <created>1736772398762</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736772398762</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -12,7 +12,7 @@
 			 public function __construct()
 			 {
 					$this->connection = mysqli_connect(
-						 'localhost', 'root', '', 'classic_cars'
+						 'localhost', 'root', '', 'carntel_db'
 					);
 			 }
 			 
