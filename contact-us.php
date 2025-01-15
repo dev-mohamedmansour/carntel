@@ -63,7 +63,7 @@
 <div class="page-wraper">
 
 	  <!-- HEADER START -->
-<?php include 'components/darkHeader.php'?>
+	  <?php include 'components/darkHeader.php' ?>
 	  <!-- HEADER END -->
 
 	  <!-- CONTENT START -->
@@ -213,13 +213,10 @@
 												   <!-- TITLE END-->
 
 												   <div class="twm-contact-page-form">
-
-
 														<div class="contact-form-outer">
 															  <form class="cons-contact-form"
 																   method="post"
-																   action="phpmailer/mail.php">
-
+																   action="">
 																    <div class="row">
 
 																		 <div class="col-lg-6 col-md-6">
@@ -507,7 +504,7 @@
 	  <!-- CONTENT END -->
 
 	  <!-- FOOTER START -->
-<?php include "components/footer.php" ?>
+	  <?php include "components/footer.php" ?>
 	  <!-- FOOTER END -->
 
 	  <!-- BUTTON TOP START -->

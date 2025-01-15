@@ -96,32 +96,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/wamp64/www/projects/Project_one&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/local_projects/projects_demo2/Project_one/js",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ],
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\local_projects\projects_demo2\Project_one\js" />
+      <recent name="E:\local_projects\projects_demo2\Project_one\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\projects\Project_one\cars_pages" />
       <recent name="C:\wamp64\www\projects\Project_one\blog_pages" />
@@ -160,7 +165,7 @@
       <workItem from="1736618183559" duration="397000" />
       <workItem from="1736618605007" duration="1670000" />
       <workItem from="1736771938825" duration="12632000" />
-      <workItem from="1736863957799" duration="2995000" />
+      <workItem from="1736863957799" duration="10378000" />
     </task>
     <task id="LOCAL-00001" summary="create a files.">
       <option name="closed" value="true" />
@@ -242,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736863843394</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add a footer and header in pages">
+      <option name="closed" value="true" />
+      <created>1736867309638</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1736867309638</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +282,8 @@
     <MESSAGE value="Enable commit signing&#10;&#10;Enables signing commits using GPG.  Also updates the last IDE settings change." />
     <MESSAGE value="Configure project for PHPUnit&#10;&#10;Adds PHPUnit configuration to the project, including:&#10;&#10;- Specifying a test source folder.&#10;- Adding composer as a dependency.&#10;- Configuring the PHP interpreter and include path.&#10;- Updating workspace settings for Composer and PHPUnit.&#10;- Minor updates to HTML content and styling." />
     <MESSAGE value="Update homepage metadata with relevant keywords and description.  Remove dropdown menu for homepage navigation, linking directly to the single homepage.  Slightly reformat car title for better readability." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update homepage metadata with relevant keywords and description.  Remove dropdown menu for homepage navigation, linking directly to the single homepage.  Slightly reformat car title for better readability." />
+    <MESSAGE value="add a footer and header in pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a footer and header in pages" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

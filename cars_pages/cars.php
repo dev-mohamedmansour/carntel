@@ -63,7 +63,7 @@
 <div class="page-wraper">
 
 	  <!-- HEADER START -->
-	  <?php include "components/darkHeader.php"?>
+	  <?php include "../components/darkHeader.php"?>
 	  <!-- HEADER END -->
 
 	  <!-- CONTENT START -->
@@ -847,7 +847,7 @@
 	  <!-- CONTENT END -->
 
 	  <!-- FOOTER START -->
-	  <?php include "components/footer.php"?>
+	  <?php include "../components/footer.php"?>
 	  <!-- FOOTER END -->
 
 	  <!-- BUTTON TOP START -->
